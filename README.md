@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git 
+git clone https://github.com/Abhishek-Verma0/Brainwave.git
 cd brainwave
 ```
 
@@ -80,5 +80,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Website]()
+- [Live Website](https://brainwave-beta-seven.vercel.app/)
 
